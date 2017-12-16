@@ -67,7 +67,6 @@ public class WordProblemSolverTest {
         assertEquals(8, solver.solve("What is 1 plus 5 minus -2?"));
     }
 
-    @Ignore("Remove to run test")
     @Test
     public void testMultipleSubtractions() {
         assertEquals(3, solver.solve("What is 20 minus 4 minus 13?"));

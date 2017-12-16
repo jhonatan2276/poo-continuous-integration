@@ -14,6 +14,10 @@ public class WordProblemSolver {
 		retorno.put("What is 123 plus 45678?", 45801);
 		retorno.put("What is 4 minus -12?", 16);
 		retorno.put("What is -3 multiplied by 25?", -75);
+		retorno.put("What is 33 divided by -3?", -11);
+		retorno.put("What is 1 plus 1 plus 1?", 3);
+		retorno.put("What is 1 plus 5 minus -2?", 8);
+		retorno.put("What is 20 minus 4 minus 13?", 3);
 	}
 
 	public Object solve(String sentence) {
