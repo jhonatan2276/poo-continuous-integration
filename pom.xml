@@ -3,6 +3,7 @@
   <groupId>poo-continuous-integration</groupId>
   <artifactId>poo-continuous-integration-solution</artifactId>
   <version>0.0.3-SNAPSHOT</version>
+  
   <dependencies>
   	<dependency>
     	<groupId>junit</groupId>
@@ -11,4 +12,9 @@
     	<scope>test</scope>
 	</dependency>
   </dependencies>
+  
+  <properties>
+  	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+  	<project.report.outputEncoding>UTF-8</project.report.outputEncoding>
+  </properties>
 </project>
