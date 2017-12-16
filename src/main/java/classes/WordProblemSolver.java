@@ -6,6 +6,8 @@ import java.util.Map;
 public class WordProblemSolver {
 
 	private Map<String,Integer> retorno = new HashMap<String,Integer>();
+	
+	//TODO Testes
 
 	public WordProblemSolver(){
 		retorno.put("What is 53 plus 2?", 55);
