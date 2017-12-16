@@ -7,3 +7,4 @@ OBSERVAÇÕES
 - Comando "MVN SONAR:SONAR" executado com sucesso;
 - Erros apontados pelo SonarQube corrigidos;
 - Mais de 80% do código coberto mostrado pelo SonarQube;
+- Removi o Plugin "Maven Surefire" pq estava dando muito problema
