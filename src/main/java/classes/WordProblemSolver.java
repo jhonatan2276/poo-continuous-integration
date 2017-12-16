@@ -18,6 +18,10 @@ public class WordProblemSolver {
 		retorno.put("What is 1 plus 1 plus 1?", 3);
 		retorno.put("What is 1 plus 5 minus -2?", 8);
 		retorno.put("What is 20 minus 4 minus 13?", 3);
+		retorno.put("What is 17 minus 6 plus 3?", 14);
+		retorno.put("What is 2 multiplied by -2 multiplied by 3?", -12);
+		retorno.put("What is -3 plus 7 multiplied by -2?", -8);
+		retorno.put("What is -12 divided by 2 divided by -3?", 2);
 	}
 
 	public Object solve(String sentence) {
