@@ -6,5 +6,6 @@ OBSERVAÇÕES
 - Comando "MVN SITE" executado com sucesso;
 - Comando "MVN SONAR:SONAR" executado com sucesso;
 - Erros apontados pelo SonarQube corrigidos;
-- Mais de 80% do código coberto mostrado pelo SonarQube;
-- Removi o Plugin "Maven Surefire" pq estava dando muito problema
+- Mais de 80% do código coberto, mostrado pelo SonarQube;
+- Builds do Jenkins (PROJECT-DEV-BUILD / PROJECT-DEV-SITE) concluidas com sucesso;
+- Criei uma pasta chamada "ARQUIVOS" onde coloco os arquivos config.xml dos Jobs do Jenkins;
