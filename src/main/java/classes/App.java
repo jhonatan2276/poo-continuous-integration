@@ -1,8 +1,10 @@
 package classes;
 
+import java.util.logging.Logger;
+
 public class App {
 
 	public static void main(String[] args) {
-		System.out.println("Teste");
+		Logger.getGlobal().info("Teste");
 	}
 }
