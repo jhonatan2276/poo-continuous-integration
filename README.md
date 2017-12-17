@@ -8,4 +8,6 @@ OBSERVAÇÕES
 - Erros apontados pelo SonarQube corrigidos;
 - Mais de 80% do código coberto, mostrado pelo SonarQube;
 - Builds do Jenkins (PROJECT-DEV-BUILD / PROJECT-DEV-SITE) concluidas com sucesso;
-- Criei uma pasta chamada "ARQUIVOS" onde coloco os arquivos config.xml dos Jobs do Jenkins;
+- Criei as seguintes pastas para os arquivos "config.xml" do Jenkins:
+  - src/jenkins/jobs/project-dev-build
+  - src/jenkins/jobs/project-dev-site
